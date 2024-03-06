@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE configuration PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+    <!-- MyBatis 설정 파일 -->
+    
+    <typeAliases>
+        <!-- 타입 별칭 설정 -->
+        <typeAlias type="com.study.erum.dto.MemberDTO" alias="member"/>
+        <!-- com.study.erum.dto.MemberDTO 클래스에 'member'라는 별칭을 지정.
+             이 별칭은 MyBatis 매퍼 파일에서 DTO 클래스를 참조할 때 사용될 수 있음. -->
+    </typeAliases>
+</configuration>
