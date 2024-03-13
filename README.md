@@ -47,4 +47,3 @@
 - 사용자 정보를 담고 있으며, 데이터베이스와의 데이터 교환에 사용됩니다.
 
 이 프로젝트는 Spring Framework의 MVC 패턴을 활용하여 구현되었으며, 각 계층간의 의존성은 Spring의 DI(Dependency Injection)를 통해 관리됩니다. 또한, 코드의 간결성을 위해 Lombok 라이브러리를 사용하여 Getter, Setter, 생성자 등을 자동으로 생성합니다.
-``
