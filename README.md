@@ -1,4 +1,4 @@
-# 🌱 Spring Framework를 이용한 회원 관리 시스템
+# 🌟 Spring Framework를 이용한 회원 관리 시스템
 
 이 프로젝트는 Spring Framework를 활용하여 회원 가입, 로그인, 회원 정보 조회, 수정 및 삭제 기능을 제공하는 웹 애플리케이션입니다.
 
